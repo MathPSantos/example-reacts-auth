@@ -8,7 +8,7 @@
 # Indice
 
 - :rocket: [Sobre o Projeto](#rocket-sobre-o-projeto)
-- 💻️ [Tecnogias utilizadas](#%EF%B8%8F-tecnogias-utilizadas)
+- 👨‍💻️ [Tecnogias utilizadas](#%EF%B8%8F-tecnogias-utilizadas)
 - 📦️ [Como baixar o projeto](#%EF%B8%8F-como-baixar-o-projeto)
 - 🤔️ [Como você pode contribuir?](#%EF%B8%8F-como-você-pode-contribuir)
  
@@ -16,7 +16,7 @@
 
 Resumo do projeto
  
-## 💻️ Tecnogias utilizadas
+## 👨‍💻️ Tecnogias utilizadas
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
